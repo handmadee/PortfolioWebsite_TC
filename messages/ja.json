@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "view_project": "詳細を見る",
+    "source_code": "ソースコード",
+    "live_demo": "ライブデモ",
+    "back_home": "プロジェクト一覧へ",
+    "contact_me": "お問い合わせ"
+  },
+  "Nav": {
+    "about": "自己紹介",
+    "skills": "スキル",
+    "projects": "プロジェクト",
+    "contact": "連絡先",
+    "resume": "履歴書"
+  },
+  "Hero": {
+    "greeting": "こんにちは、私は",
+    "typewriter_prefix": "> 私は",
+    "role": "ビジネスアナリスト",
+    "description": "ビジネスニーズと技術ソリューションの架け橋となります。日本語能力を活かして。",
+    "cta": "プロジェクトを見る"
+  },
+  "ProjectDetail": {
+    "overview": "概要",
+    "tech_stack": "技術スタック",
+    "challenges": "課題と解決策",
+    "results": "成果とインパクト",
+    "gallery": "ギャラリー"
+  }
+}

@@ -1,0 +1,29 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cherry blossom (Đào) petal -->
+  <defs>
+    <radialGradient id="daoGradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFCCE5;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFB7D5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:0.9" />
+    </radialGradient>
+  </defs>
+
+  <!-- Main petal shape - rounded top -->
+  <path d="M16,2 Q22,4 24,10 Q24,16 20,24 Q16,28 12,24 Q8,16 8,10 Q10,4 16,2 Z"
+        fill="url(#daoGradient)"
+        stroke="#FF69B4"
+        stroke-width="0.5"/>
+
+  <!-- Petal notch at top -->
+  <path d="M16,2 Q15,5 16,8 Q17,5 16,2" fill="#FF8FBF" opacity="0.6"/>
+
+  <!-- Center highlight -->
+  <ellipse cx="16" cy="12" rx="3" ry="5" fill="#FFE0F0" opacity="0.5"/>
+
+  <!-- Vein lines -->
+  <path d="M16,2 L16,28" stroke="#FF69B4" stroke-width="0.3" opacity="0.4"/>
+  <path d="M16,8 Q12,10 10,14" stroke="#FF69B4" stroke-width="0.2" opacity="0.3"/>
+  <path d="M16,8 Q20,10 22,14" stroke="#FF69B4" stroke-width="0.2" opacity="0.3"/>
+  <path d="M16,16 Q13,18 12,22" stroke="#FF69B4" stroke-width="0.2" opacity="0.3"/>
+  <path d="M16,16 Q19,18 20,22" stroke="#FF69B4" stroke-width="0.2" opacity="0.3"/>
+</svg>

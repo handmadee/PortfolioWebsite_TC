@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "view_project": "View Details",
+    "source_code": "Source Code",
+    "live_demo": "Live Demo",
+    "back_home": "Back to Projects",
+    "contact_me": "Contact Me"
+  },
+  "Nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "Hero": {
+    "greeting": "Hi, I'm",
+    "typewriter_prefix": "> I am a",
+    "role": "Business Analyst & Data Enthusiast",
+    "description": "Bridging the gap between business needs and technological solutions with Japanese proficiency.",
+    "cta": "See My Work"
+  },
+  "ProjectDetail": {
+    "overview": "Overview",
+    "tech_stack": "Tech Stack",
+    "challenges": "Challenges & Solutions",
+    "results": "Impact & Results",
+    "gallery": "Gallery"
+  }
+}

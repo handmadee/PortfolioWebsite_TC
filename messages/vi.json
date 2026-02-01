@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "view_project": "Xem Chi Tiết",
+    "source_code": "Mã Nguồn",
+    "live_demo": "Demo Trực Tiếp",
+    "back_home": "Về Danh Sách",
+    "contact_me": "Liên Hệ"
+  },
+  "Nav": {
+    "about": "Giới Thiệu",
+    "skills": "Kỹ Năng",
+    "projects": "Dự Án",
+    "contact": "Liên Hệ",
+    "resume": "CV"
+  },
+  "Hero": {
+    "greeting": "Xin chào, tôi là",
+    "typewriter_prefix": "> Tôi là một",
+    "role": "Chuyên Viên Phân Tích Nghiệp Vụ",
+    "description": "Kết nối nhu cầu kinh doanh và giải pháp công nghệ với khả năng tiếng Nhật chuyên nghiệp.",
+    "cta": "Xem Dự Án"
+  },
+  "ProjectDetail": {
+    "overview": "Tổng Quan",
+    "tech_stack": "Công Nghệ",
+    "challenges": "Thách Thức & Giải Pháp",
+    "results": "Kết Quả Đạt Được",
+    "gallery": "Thư Viện Ảnh"
+  }
+}
